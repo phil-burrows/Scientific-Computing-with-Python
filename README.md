@@ -6,3 +6,7 @@ This respository captures my personal solutions to the Scientific Computing with
 3) Budget App
 4) Polygon Area Calculator
 5) Probability Calculator
+
+<p align="center">
+  <img src="scientific-computing-with-python.PNG?raw=true">
+</p>
